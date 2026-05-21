@@ -2,11 +2,14 @@
 .book {
   transition: opacity 0.4s 0.2s;
 }
-p{
+p {
   margin-top: 8vw;
   text-align: center;
   font-size: 5vw;
   color: #000000;
+}
+h2 {
+  font-size: 9vw;
 }
 .page {
   width: 30vw;
